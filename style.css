@@ -1,0 +1,59 @@
+div {
+    position: absolute;
+}
+.Figure-1 {
+    height: 371px;
+    width: 302px;
+    background-color: red;
+    border-right: 15px solid;
+    border-bottom: 15px solid;
+}
+.Figure-2
+    {
+        height: 250px;
+        width: 400px;
+        background-color: white;
+        left: 100%;
+        top: 100%;
+        border: 15px solid black;
+    }
+.Figure-3
+{
+    height: 170px;
+    width: 100px;
+    background-color: blue;
+    left: 100%;
+    bottom: 26%;
+    border-bottom: 15px solid;
+    border-top: 15px solid black;
+    border-left: 15px solid;
+}
+.Figure-4
+{
+    height: 30px;
+    width: 200px;
+    background-color: yellow;
+    border-right: 15px solid;
+    border-left: 15px ;
+    right: 300%;
+    top: 155%;
+}
+    
+.Figure-5
+{
+    height: 30px;
+    width: 200px;
+    background-color: black;
+    border-right: 15px solid black;
+    top: 2%;
+    left: 100%;
+}
+.Figure-6
+{
+    height: 20px;
+    width: 115px;
+    background-color: black;
+    bottom: 325%;
+    left: 100%;
+}
+    
